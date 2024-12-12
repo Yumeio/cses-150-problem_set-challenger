@@ -2,7 +2,7 @@
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     03/19     |
+| Introductory Problems |     04/19     |
 | Sorting and Searching |     00/35     |
 | Dynamic Programming   |     00/19     |
 | Graph Algorithms      |     00/36     |
@@ -13,4 +13,4 @@
 | Geometry              |      0/7      |
 | Advanced Techniques   |     00/24     |
 | Additional Problems   |     00/77     |
-| **Total**             |  **003/300**  |
+| **Total**             |  **004/300**  |
